@@ -1,6 +1,6 @@
 # HIBOO-IHM-Elearning-Kids-Interface
 
-- HIBOO is a Java Swing-based educational interface designed for children's learning. It includes quizzes, texts, and games tailored to children based on their age and learning speed. The interface, known as Kids-Portal, also features a parent portal for tracking their child's progress, providing necessary information, and displaying the learning advancement rate. Additionally, there's a teacher portal for adding remarks visible to parents, creating quizzes and texts, and notifying parents in case of issues.
+HIBOO is a Java Swing-based educational interface designed for children's learning. It includes quizzes, texts, and games tailored to children based on their age and learning speed. The interface, known as Kids-Portal, also features a parent portal for tracking their child's progress, providing necessary information, and displaying the learning advancement rate. Additionally, there's a teacher portal for adding remarks visible to parents, creating quizzes and texts, and notifying parents in case of issues.
 
 ## Features
 
