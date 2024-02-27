@@ -18,14 +18,14 @@ HIBOO is a Java Swing-based educational interface designed for children's learni
 
 Clone the HIBOO repository to your machine.
 
-## bash
+### bash
 git clone https://github.com/your-username/HIBOO-IHM-Elearning-Kids-Interface.git
 
 ## Usage
 
 Launch Java and open the project using the main file.
 
-##bash
+### bash
 java -jar KidsPortal.jar
 
 Explore the Kids-Portal interface for educational content and activities.
